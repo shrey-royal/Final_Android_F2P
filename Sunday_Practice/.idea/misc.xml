@@ -1,0 +1,25 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.178" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/drawable/button_bg.xml" value="0.178" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/drawable/onpresschange.xml" value="0.178" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/drawable/spinner_bg.xml" value="0.1875" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/drawable/spinner_sla.xml" value="0.178" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/drawable/transparent_btn.xml" value="0.178" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/layout/activity_custom_buttons.xml" value="0.28703703703703703" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/layout/activity_dark_mode.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/layout/activity_main.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/layout/spinner_dropdown.xml" value="0.28703703703703703" />
+        <entry key="..\:/Users/Shrey Kadia/Documents/Shrey@Royal/Android/Projects/Sunday_Practice/app/src/main/res/layout/spinner_selected_text.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
